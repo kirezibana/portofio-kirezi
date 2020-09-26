@@ -1,6 +1,6 @@
 # portofio-kirezi
 
-author:kirezi bana hortense
+Author:kirezi bana hortense
 
 what is e-portfolio ?
 
